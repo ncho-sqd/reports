@@ -1,0 +1,16 @@
+## My First Report
+This report will address interesting questions as below:
+
+* What is the question
+* Why is it interesting
+* What the the question of interesting interesting
+
+### Section 1
+Explain
+
+## Example Code
+```{r}
+library(dplyr)
+library(magrittr)
+```
+
